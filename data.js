@@ -27,7 +27,7 @@ var exItems = [{
   imgPaths: ["web_design_001.jpg", "web_design_002.jpg", "web_design_003.jpg", "web_design_004.jpg"],
   date: "2021.09",
   description: '既存の顧客管理システムのデザイン改修案',
-  urls: ['https://modernscape.github.io/paperworks.github.io/mockup/MyPage_3_3/boss5_develop/private/mockup/index_3_3.html','https://modernscape.github.io/paperworks.github.io/mockup/MyPage_3_2/boss5_develop/private/mockup/index_3_2.html','https://modernscape.github.io/paperworks.github.io/mockup/MyPage_1_3/boss5_develop/private/mockup/index_1_3.html'] 
+  urls: ['https://modernscape.github.io/paperworks.github.io/mockup/MyPage_3_3/develop/private/mockup/index_3_3.html','https://modernscape.github.io/paperworks.github.io/mockup/MyPage_3_2/develop/private/mockup/index_3_2.html','https://modernscape.github.io/paperworks.github.io/mockup/MyPage_1_3/develop/private/mockup/index_1_3.html'] 
   // urls: ["http://btw.html.xdomain.jp/paperworks/img/web_design_001.jpg", "http://btw.html.xdomain.jp/paperworks/img/web_design_002.jpg", "http://btw.html.xdomain.jp/paperworks/img/web_design_003.jpg", "http://btw.html.xdomain.jp/paperworks/img/web_design_004.jpg"]
 },
 {
