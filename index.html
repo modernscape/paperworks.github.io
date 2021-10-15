@@ -3,9 +3,12 @@
 
 <head>
     <script data-ad-client="ca-pub-1511850082670293" async
-        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+    </script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-74338330-6"></script>
+    <script async
+        src="https://www.googletagmanager.com/gtag/js?id=UA-74338330-6">
+    </script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -38,24 +41,29 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <!-- fonts -->
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Sawarabi+Gothic&display=swap"
+    <link
+        href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP&family=Sawarabi+Gothic&display=swap"
         rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:100,300,400" rel="stylesheet" />
+    <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p:100,300,400"
+        rel="stylesheet" />
     <!--    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">-->
 
     <link rel="stylesheet" href="./style.css" />
     <!--ホームアイコン-->
     <!--  <link rel="apple-touch-icon" href="apple-touch-icon_180.png">-->
-    <link rel="apple-touch-icon" sizes="180x180" href="./apple-touch-icon_180.png" />
+    <link rel="apple-touch-icon" sizes="180x180"
+        href="./apple-touch-icon_180.png" />
+    <link rel="shortcut icon" href="favicon.ico">
     <title>paper works</title>
 </head>
 
 <body>
     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-P2LFDD7" height="0" width="0"
+    <noscript><iframe
+            src="https://www.googletagmanager.com/ns.html?id=GTM-P2LFDD7"
+            height="0" width="0"
             style="display: none; visibility: hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-
     <div class="concept">paper works</div>
     <div id="app">
         <div id="header">
@@ -71,12 +79,15 @@
         <!-- リスト表示領域 -->
         <div id="list">
             <ul id="items" style="list-style-type: none">
-                <li v-for="item in items" :class="item.category" :key="item.id" :data-id="item.id">
+                <li v-for="item in items" :class="item.category" :key="item.id"
+                    :data-id="item.id">
                     <div class="item-title">{{ item.title }}</div>
                     <div class="item-body">
-                        <img v-for="path in item.imgPaths" :src='"./img/"+path' />
+                        <img v-for="path in item.imgPaths"
+                            :src='"./img/"+path' />
                         <br />
-                        <a v-for="url in item.urls" :href="url" target="_blank">click to open</a>
+                        <a v-for="url in item.urls" :href="url"
+                            target="_blank">click to open</a>
                     </div>
                 </li>
             </ul>
