@@ -92,6 +92,17 @@ var exItems = [{
 },
 {
   id: 8,
+  title: "Webアプリ試作（フロントのみ）",
+  category: "web",
+  imgPaths: ['concentration.png'],
+  date: "2021.10",
+  description: "最も重要なことにどれだけ集中しているかアプリ",
+  urls: [
+    "http://btw.html.xdomain.jp/concentration/"
+  ],
+},
+{
+  id: 9,
   title: "Water Drops 2 〔Unity App〕",
   category: "Unity",
   imgPaths: ["waterdrops2_0.png", "waterdrops2_1.png"],
@@ -103,7 +114,7 @@ var exItems = [{
   urls: ["https://apps.apple.com/jp/app/waterdrops/id1515123047"],
 },
 {
-  id: 9,
+  id: 10,
   title: "GuruGuru Task 〔iOS App〕",
   category: "iOS",
   imgPaths: ["GuruGuruTask_0.jpg", "GuruGuruTask_1.jpg"],
@@ -115,7 +126,7 @@ var exItems = [{
   urls: ["https://itunes.apple.com/jp/app/guruguru-task/id1317583724?mt=8"],
 },
 {
-  id: 10,
+  id: 11,
   title: "落水荘 〔空間アイデアコンペ〕",
   category: "space",
   imgPaths: ["waterfall.jpg"],
@@ -125,10 +136,10 @@ var exItems = [{
   //        evanescent (消え去ってゆく) - house < br > はさまざまな "tension"
   //の束である。 < br > これはシステムのひとつのあり方を示す。 < br > ここでいう tension とは、 変化する要素の集合である。 < br > それはアトミックな構成要素でなく、 部分毎に異なり、 互いに貫入し合い < br > ゆらぎ、 生滅変化し、 領域の部分も輪郭も複雑になって、 < br > 全体は自己同一化に漂着しない、 < br > 変化し続ける” 流れ” の総体として進行する。 < br > 流れ行く建築は、 流れ行く水と一体を成す。
 
-  urls: [],
+  urls: []
 },
 {
-  id: 11,
+  id: 12,
   title: "Skill Set 〔スキル〕",
   category: "general",
   imgPaths: [
@@ -143,7 +154,7 @@ var exItems = [{
   urls: [],
 },
 {
-  id: 12,
+  id: 13,
   title: "air-fabric ／ air-edges 〔空間アイデアコンペ〕",
   category: "space",
   imgPaths: ["air-fabric.jpg", "air-edges.jpg"],
@@ -152,7 +163,7 @@ var exItems = [{
   urls: [],
 },
 {
-  id: 13,
+  id: 14,
   title: "Career 〔経歴〕",
   category: "general",
   imgPaths: ["career.png"],
@@ -203,7 +214,7 @@ var exItems = [{
 //  },
 
 {
-  id: 14,
+  id: 15,
   title: "白地図アプリ（受注）",
   category: "iOS",
   imgPaths: [
@@ -252,7 +263,7 @@ var exItems = [{
 //        urls: [],
 //  },
 {
-  id: 15,
+  id: 16,
   title: "Water Drops 〔iOS App〕",
   category: "iOS",
   imgPaths: [
@@ -268,7 +279,7 @@ var exItems = [{
   urls: [],
 },
 {
-  id: 16,
+  id: 17,
   title: "竹と布の家",
   category: "space",
   imgPaths: ["taketonuno.jpg"],
@@ -277,7 +288,7 @@ var exItems = [{
   urls: [],
 },
 {
-  id: 17,
+  id: 18,
   title: "七夕花 〔活け花〕",
   category: "flower",
   imgPaths: ["tanabata.jpg"],
@@ -286,7 +297,7 @@ var exItems = [{
   urls: [],
 },
 {
-  id: 18,
+  id: 19,
   title: "モミジ花 〔活け花〕",
   category: "flower",
   imgPaths: ["mojimi.jpg"],
@@ -324,7 +335,7 @@ var exItems = [{
 //   urls: [],
 // },
 {
-  id: 19,
+  id: 20,
   title: "Message 〔メッセージ〕",
   category: "general",
   imgPaths: ["message.png"],
