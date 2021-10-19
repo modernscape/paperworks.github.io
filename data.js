@@ -96,7 +96,7 @@ var exItems = [{
   category: "web",
   imgPaths: ['concentration.png'],
   date: "2021.10",
-  description: "最も重要なことにどれだけ集中しているかアプリ",
+  description: "最も重要なことにどれだけ集中しているかアプリ<br>JavaScript",
   urls: [
     "http://btw.html.xdomain.jp/concentration/"
   ],
