@@ -33,7 +33,7 @@ var exItems = [
     // "http://btw.html.xdomain.jp/_sample/Lights/",
     // "http://btw.html.xdomain.jp/_sample/AirPlane/",
     // "http://btw.html.xdomain.jp/_sample/Transform3D/"
-  ],
+  ]
 },
 {
   id: 4,
@@ -91,51 +91,6 @@ var exItems = [
 },
 {
   id: 9,
-  title: "Career 〔経歴〕",
-  category: "general",
-  imgPaths: ["career.png"],
-  date: null,
-  description: null,
-  urls: []
-},
-{
-  id: 10,
-  title: "Water Drops 2 〔Unity App〕",
-  category: "Unity",
-  imgPaths: ["waterdrops2_0.png", "waterdrops2_1.png"],
-  date: "2020.7 release",
-  description: 'UnityによるiOS App<br><br><span style="color:#00c3ff;font-size:13px">2021年1月 BS11「どっぷりアプリ」で放送</span><br><br>ビジュアルに使える、達成を促すタスクアプリ<br><br>ダウンロード数　650',
-  urls: ["https://apps.apple.com/jp/app/waterdrops/id1515123047"]
-},
-{
-  id: 11,
-  title: "GuruGuru Task 〔iOS App〕",
-  category: "iOS",
-  imgPaths: ["GuruGuruTask_0.jpg", "GuruGuruTask_1.jpg"],
-  date: "2017.11 release",
-  description: "直感的に使えるタスクアプリ<br>SpriteKit使用<br><br>ダウンロード数　4,300",
-  urls: ["https://itunes.apple.com/jp/app/guruguru-task/id1317583724?mt=8"]
-},
-{
-  id: 12,
-  title: "ミースの家 〔空間アイデアコンペ〕",
-  category: "space",
-  imgPaths: ["mies_0.jpg", "mies_1.jpg", "mies_2.jpg"],
-  date: "1997.03",
-  description: 'エスバイエル住宅設計コンペティション<br><span style="color:#00c3ff;font-size:13px">妹島和世賞 受賞</span><br>新建築 1997年7月号掲載<br><br>近代建築の巨匠「ミース」のための家<br><br><span class="tools">Strata3d、PhotoShop、Illustrator</span>',
-  urls: []
-},
-{
-  id: 13,
-  title: "落水荘 〔空間アイデアコンペ〕",
-  category: "space",
-  imgPaths: ["waterfall.jpg"],
-  date: "2005.01",
-  description: "新しい空間のイメージを提案<br><br>複雑な要素の集合で成り立つ建築<br><br><span class='tools'>FormZ、Illustrator、PhotoShop</span>",
-  urls: []
-},
-{
-  id: 14,
   title: "Skill Set 〔スキル〕",
   category: "general",
   imgPaths: [
@@ -149,6 +104,52 @@ var exItems = [
   description: null,
   urls: []
 },
+{
+  id: 10,
+  title: "Career 〔経歴〕",
+  category: "general",
+  imgPaths: ["career.png"],
+  date: null,
+  description: null,
+  urls: []
+},
+{
+  id: 11,
+  title: "Water Drops 2 〔Unity App〕",
+  category: "Unity",
+  imgPaths: ["waterdrops2_0.png", "waterdrops2_1.png"],
+  date: "2020.7 release",
+  description: 'UnityによるiOS App<br><br><span style="color:#00c3ff;font-size:13px">2021年1月 BS11「どっぷりアプリ」で放送</span><br><br>ビジュアルに使える、達成を促すタスクアプリ<br><br>ダウンロード数　650',
+  urls: ["https://apps.apple.com/jp/app/waterdrops/id1515123047"]
+},
+{
+  id: 12,
+  title: "GuruGuru Task 〔iOS App〕",
+  category: "iOS",
+  imgPaths: ["GuruGuruTask_0.jpg", "GuruGuruTask_1.jpg"],
+  date: "2017.11 release",
+  description: "直感的に使えるタスクアプリ<br>SpriteKit使用<br><br>ダウンロード数　4,300",
+  urls: ["https://itunes.apple.com/jp/app/guruguru-task/id1317583724?mt=8"]
+},
+{
+  id: 13,
+  title: "ミースの家 〔空間アイデアコンペ〕",
+  category: "space",
+  imgPaths: ["mies_0.jpg", "mies_1.jpg", "mies_2.jpg"],
+  date: "1997.03",
+  description: 'エスバイエル住宅設計コンペティション<br><span style="color:#00c3ff;font-size:13px">妹島和世賞 受賞</span><br>新建築 1997年7月号掲載<br><br>近代建築の巨匠「ミース」のための家<br><br><span class="tools">Strata3d、PhotoShop、Illustrator</span>',
+  urls: []
+},
+{
+  id: 14,
+  title: "落水荘 〔空間アイデアコンペ〕",
+  category: "space",
+  imgPaths: ["waterfall.jpg"],
+  date: "2005.01",
+  description: "新しい空間のイメージを提案<br><br>複雑な要素の集合で成り立つ建築<br><br><span class='tools'>FormZ、Illustrator、PhotoShop</span>",
+  urls: []
+},
+
 {
   id: 15,
   title: "air-fabric ／ air-edges 〔空間アイデアコンペ〕",
@@ -205,7 +206,7 @@ var exItems = [
   ],
   date: "2018.10 release",
   description: "（クラウドワークスでの受注アプリ）<br>神社仏閣めぐり、イベントへの参加、スポーツの観戦、ご当地グルメなど。あなたの旅を、仲間との旅を、テーマ別に日本地図の47都道府県を塗りつぶすことで彩りましょう。<br><br>・テーマ別に白地図を保存できます。<br>・日本列島の白地図を都道府県別に塗りつぶせます。<br>・塗った都道府県には日付とメモを保存できます。<br><br>【開発期間】1ヶ月",
-  urls: ['https://apps.apple.com/jp/app/%E7%99%BD%E5%9C%B0%E5%9B%B3ad/id1438596925'],
+  urls: ['https://apps.apple.com/jp/app/%E7%99%BD%E5%9C%B0%E5%9B%B3ad/id1438596925']
 },
 {
   id: 17,
@@ -255,6 +256,6 @@ var exItems = [
   imgPaths: ["message.png"],
   date: null,
   description: null,
-  urls: [],
+  urls: []
 }
 ];
