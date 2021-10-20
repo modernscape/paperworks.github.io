@@ -1,6 +1,6 @@
 var exItems = [
 {
-  id: 1,
+  id: 0,
   title: "Webデザイン検討案",
   category: "web",
   imgPaths: ["web_design_001.jpg", "web_design_002.jpg", "web_design_003.jpg", "web_design_004.jpg"],
@@ -9,7 +9,7 @@ var exItems = [
   urls: ['https://modernscape.github.io/paperworks.github.io/mockup/MyPage_3_3/develop/private/mockup/index_3_3.html','https://modernscape.github.io/paperworks.github.io/mockup/MyPage_3_2/develop/private/mockup/index_3_2.html','https://modernscape.github.io/paperworks.github.io/mockup/MyPage_1_3/develop/private/mockup/index_1_3.html'] 
 },
 {
-  id: 2,
+  id: 1,
   title: "Swift School site",
   category: "web",
   imgPaths: ["swift-school.jpg"],
@@ -18,7 +18,7 @@ var exItems = [
   urls: ["http://btw.html.xdomain.jp/_sample/dreamapps.jp"]
 },
 {
-  id: 3,
+  id: 2,
   title: "Web制作スタディ",
   category: "web",
   imgPaths: ['btw_s.png', 'wd2_webgl_s.png', 'slice_s.png', 'ShowCase_s.png'],
@@ -36,7 +36,7 @@ var exItems = [
   ]
 },
 {
-  id: 4,
+  id: 3,
   title: "Webアプリ試作（フロントのみ）",
   category: "web",
   imgPaths: ['concentration.png'],
@@ -47,7 +47,7 @@ var exItems = [
   ]
 },
 {
-  id: 5,
+  id: 4,
   title: "Top for SANAA 〔Web デザインコンペ〕",
   category: "web",
   imgPaths: ['SANAA_2.png'],
@@ -61,7 +61,7 @@ var exItems = [
   ]
 },
 {
-  id: 6,
+  id: 5,
   title: "Top for Nail salon 〔Web スタディ〕",
   category: "web",
   imgPaths: ["nail-salon_0.jpg", "nail-salon_1.jpg", "nail-salon_2.jpg"],
@@ -70,7 +70,7 @@ var exItems = [
   urls: ["http://btw.html.xdomain.jp/FlowGrids/index.html"]
 },
 {
-  id: 7,
+  id: 6,
   title: "Crystals 〔Web スタディ〕",
   category: "web",
   imgPaths: ["three_1.png"],
@@ -79,7 +79,7 @@ var exItems = [
   urls: ["http://btw.html.xdomain.jp/19-04-10_crystals/"]
 },
 {
-  id: 8,
+  id: 7,
   title: "新しい「3D UI」の提案 〔Web スタディ〕",
   category: "web",
   imgPaths: ['view_01.png', 'view_02.png', 'view_03.png', 'view_04.png'],
@@ -90,7 +90,7 @@ var exItems = [
   ]
 },
 {
-  id: 9,
+  id: 8,
   title: "Skill Set 〔スキル〕",
   category: "general",
   imgPaths: [
@@ -105,7 +105,7 @@ var exItems = [
   urls: []
 },
 {
-  id: 10,
+  id: 9,
   title: "Career 〔経歴〕",
   category: "general",
   imgPaths: ["career.png"],
@@ -114,7 +114,7 @@ var exItems = [
   urls: []
 },
 {
-  id: 11,
+  id: 10,
   title: "Water Drops 2 〔Unity App〕",
   category: "Unity",
   imgPaths: ["waterdrops2_0.png", "waterdrops2_1.png"],
@@ -123,7 +123,7 @@ var exItems = [
   urls: ["https://apps.apple.com/jp/app/waterdrops/id1515123047"]
 },
 {
-  id: 12,
+  id: 11,
   title: "GuruGuru Task 〔iOS App〕",
   category: "iOS",
   imgPaths: ["GuruGuruTask_0.jpg", "GuruGuruTask_1.jpg"],
@@ -132,7 +132,7 @@ var exItems = [
   urls: ["https://itunes.apple.com/jp/app/guruguru-task/id1317583724?mt=8"]
 },
 {
-  id: 13,
+  id: 12,
   title: "ミースの家 〔空間アイデアコンペ〕",
   category: "space",
   imgPaths: ["mies_0.jpg", "mies_1.jpg", "mies_2.jpg"],
@@ -141,7 +141,7 @@ var exItems = [
   urls: []
 },
 {
-  id: 14,
+  id: 13,
   title: "落水荘 〔空間アイデアコンペ〕",
   category: "space",
   imgPaths: ["waterfall.jpg"],
@@ -151,7 +151,7 @@ var exItems = [
 },
 
 {
-  id: 15,
+  id: 14,
   title: "air-fabric ／ air-edges 〔空間アイデアコンペ〕",
   category: "space",
   imgPaths: ["air-fabric.jpg", "air-edges.jpg"],
@@ -195,7 +195,7 @@ var exItems = [
 //  },
 
 {
-  id: 16,
+  id: 15,
   title: "白地図アプリ（受注）",
   category: "iOS",
   imgPaths: [
@@ -209,7 +209,7 @@ var exItems = [
   urls: ['https://apps.apple.com/jp/app/%E7%99%BD%E5%9C%B0%E5%9B%B3ad/id1438596925']
 },
 {
-  id: 17,
+  id: 16,
   title: "Water Drops 〔iOS App〕",
   category: "iOS",
   imgPaths: [
@@ -223,7 +223,7 @@ var exItems = [
   urls: []
 },
 {
-  id: 18,
+  id: 17,
   title: "竹と布の家",
   category: "space",
   imgPaths: ["taketonuno.jpg"],
@@ -232,7 +232,7 @@ var exItems = [
   urls: []
 },
 {
-  id: 19,
+  id: 18,
   title: "七夕花 〔活け花〕",
   category: "flower",
   imgPaths: ["tanabata.jpg"],
@@ -241,7 +241,7 @@ var exItems = [
   urls: []
 },
 {
-  id: 20,
+  id: 19,
   title: "モミジ花 〔活け花〕",
   category: "flower",
   imgPaths: ["mojimi.jpg"],
@@ -250,7 +250,7 @@ var exItems = [
   urls: []
 },
 {
-  id: 21,
+  id: 20,
   title: "Message 〔メッセージ〕",
   category: "general",
   imgPaths: ["message.png"],
