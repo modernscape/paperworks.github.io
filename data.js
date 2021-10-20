@@ -28,11 +28,11 @@ var exItems = [
     "http://btw.html.xdomain.jp/BTW/",
     "http://btw.html.xdomain.jp/_sample/WD2_Web/",
     "http://btw.html.xdomain.jp/ShowCase/",
-    "http://btw.html.xdomain.jp/slideImages/19-12-04_slideImages_siding/clip.html",
-    "http://btw.html.xdomain.jp/Explosion/",
-    "http://btw.html.xdomain.jp/_sample/Lights/",
-    "http://btw.html.xdomain.jp/_sample/AirPlane/",
-    "http://btw.html.xdomain.jp/_sample/Transform3D/"
+    "http://btw.html.xdomain.jp/slideImages/19-12-04_slideImages_siding/clip.html"
+    // "http://btw.html.xdomain.jp/Explosion/",
+    // "http://btw.html.xdomain.jp/_sample/Lights/",
+    // "http://btw.html.xdomain.jp/_sample/AirPlane/",
+    // "http://btw.html.xdomain.jp/_sample/Transform3D/"
   ],
 },
 {
