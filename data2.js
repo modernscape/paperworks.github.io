@@ -43,7 +43,7 @@ var exItems = [
   date: "2021.10",
   description: "最も重要なことにどれだけ集中しているかアプリ<br>JavaScript、HTML、CSS",
   urls: [
-    "http://btw.html.xdomain.jp/concentration/"
+    "http://btw.html.xdomain.jp/_sample/concentration/"
   ]
 },
 {
